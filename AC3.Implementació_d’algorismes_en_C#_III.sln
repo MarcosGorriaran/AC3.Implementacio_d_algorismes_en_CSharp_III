@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACT1AskAndSum", "ACT1AskAnd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACT2CopyNotRepeated", "ACT2CopyNotRepeated\ACT2CopyNotRepeated.csproj", "{7D716CFB-7AA4-4AAC-BB8C-E6385E9B80E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACT3FindSmallestAndBiggestValue", "ACT3FindSmallestAndBiggestValue\ACT3FindSmallestAndBiggestValue.csproj", "{135838F9-7F77-41F0-BCFD-F93D84027C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACT4ShowUserMult", "ACT4ShowUserMult\ACT4ShowUserMult.csproj", "{22BE2015-DCF1-45F9-A10C-FB49EF328495}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{7D716CFB-7AA4-4AAC-BB8C-E6385E9B80E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D716CFB-7AA4-4AAC-BB8C-E6385E9B80E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D716CFB-7AA4-4AAC-BB8C-E6385E9B80E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135838F9-7F77-41F0-BCFD-F93D84027C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135838F9-7F77-41F0-BCFD-F93D84027C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135838F9-7F77-41F0-BCFD-F93D84027C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135838F9-7F77-41F0-BCFD-F93D84027C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22BE2015-DCF1-45F9-A10C-FB49EF328495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BE2015-DCF1-45F9-A10C-FB49EF328495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BE2015-DCF1-45F9-A10C-FB49EF328495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BE2015-DCF1-45F9-A10C-FB49EF328495}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
