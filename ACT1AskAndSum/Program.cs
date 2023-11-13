@@ -7,7 +7,7 @@
  * i el programa generi una llista, a partir de valors introduïts per teclat,
  * retornant la suma de tots els elements d’aquesta.
  */
-
+using System;
 namespace AlgoritmosIII
 {
     class Execute

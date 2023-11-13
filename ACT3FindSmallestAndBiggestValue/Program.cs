@@ -2,13 +2,11 @@
  * Author: Gorriaran Caamaño Marcos Facundo
  * M03. Programació UF1
  * v1. 13/11/2001
- * Exercici 2. 
- * Implementa un programa que demani a l’usuari quants valors vol
- * introduir i el programa generi una llista, a partir de valors
- * introduïts per teclat, retornant la suma de tots els elements
- * d’aquesta.
+ * Exercici 3. 
+ *  Implementa un programa que, donada la següent llista, retorni l’element
+ *  més gran i el més petit.
  */
-
+using System;
 namespace AlgoritmosIII
 {
     class Execute
